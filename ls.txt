@@ -1,0 +1,2 @@
+animation: loop 10s linear infinite;
+animation: loop 10s linear;
